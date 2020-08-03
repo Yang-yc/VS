@@ -1,0 +1,24 @@
+﻿生成启动时间为 2020/6/17 21:51:49。
+     1>项目“D:\VS项目\14 类和对象\14 类和对象\14 类和对象.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "07 封装案例2-点和圆的关系.cpp" Circle.cpp Point.cpp
+         Point.cpp
+         Circle.cpp
+         07 封装案例2-点和圆的关系.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS项目\14 类和对象\Debug\14 类和对象.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS项目\14 类和对象\Debug\14 类和对象.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS项目\14 类和对象\Debug\14 类和对象.lib" /MACHINE:X86 "Debug\01 封装的意义.obj"
+         "Debug\02 封装案例.obj"
+         "Debug\03 访问权限.obj"
+         "Debug\04 struct和class的区别.obj"
+         "Debug\05 成员属性设置为私有.obj"
+         "Debug\06 封装案例-立方体.obj"
+         "Debug\07 封装案例2-点和圆的关系.obj"
+         Debug\Circle.obj
+         Debug\Point.obj
+         14 类和对象.vcxproj -> D:\VS项目\14 类和对象\Debug\14 类和对象.exe
+     1>已完成生成项目“D:\VS项目\14 类和对象\14 类和对象\14 类和对象.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.32
