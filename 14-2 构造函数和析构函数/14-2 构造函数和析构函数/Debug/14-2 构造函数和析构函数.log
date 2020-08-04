@@ -1,0 +1,13 @@
+﻿生成启动时间为 2020/6/28 20:32:48。
+     1>项目“D:\VS项目\14-2 构造函数和析构函数\14-2 构造函数和析构函数\14-2 构造函数和析构函数.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "静态成员-静态成员函数.cpp"
+         静态成员-静态成员函数.cpp
+     1>d:\vs项目\14-2 构造函数和析构函数\14-2 构造函数和析构函数\静态成员-静态成员函数.cpp(34): error C2248: “Person::func2”: 无法访问 private 成员(在“Person”类中声明)
+                 d:\vs项目\14-2 构造函数和析构函数\14-2 构造函数和析构函数\静态成员-静态成员函数.cpp(18) : 参见“Person::func2”的声明
+                 d:\vs项目\14-2 构造函数和析构函数\14-2 构造函数和析构函数\静态成员-静态成员函数.cpp(6) : 参见“Person”的声明
+     1>已完成生成项目“D:\VS项目\14-2 构造函数和析构函数\14-2 构造函数和析构函数\14-2 构造函数和析构函数.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.28
